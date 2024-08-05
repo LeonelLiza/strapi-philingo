@@ -1,0 +1,2 @@
+# strapi-philingo
+philingo-app
